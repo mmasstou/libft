@@ -8,5 +8,5 @@
 
 ## Skills
 	* Imperative programming
-  * Rigor
-  * Algorithms & AI
+  	* Rigor
+  	* Algorithms & AI
